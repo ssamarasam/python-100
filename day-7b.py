@@ -1,5 +1,6 @@
 # using property to replace getter and setter
 # using decorator to simply the code
+# without setter, the attribute will be read only
 
 class Product:
     def __init__(self, price):
